@@ -4,8 +4,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/yusuijiang01-orz/s-ui/database"
-	"github.com/yusuijiang01-orz/s-ui/database/model"
+	"github.com/alireza0/s-ui/database"
+	"github.com/alireza0/s-ui/database/model"
 
 	"gorm.io/gorm"
 )

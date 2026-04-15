@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yusuijiang01-orz/s-ui/config"
-	"github.com/yusuijiang01-orz/s-ui/database"
-	"github.com/yusuijiang01-orz/s-ui/database/model"
-	"github.com/yusuijiang01-orz/s-ui/logger"
+	"github.com/alireza0/s-ui/config"
+	"github.com/alireza0/s-ui/database"
+	"github.com/alireza0/s-ui/database/model"
+	"github.com/alireza0/s-ui/logger"
 
 	"github.com/sagernet/sing-box/common/tls"
 	"github.com/shirou/gopsutil/v4/cpu"

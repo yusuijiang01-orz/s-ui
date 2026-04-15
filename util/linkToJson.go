@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yusuijiang01-orz/s-ui/util/common"
+	"github.com/alireza0/s-ui/util/common"
 )
 
 func GetOutbound(uri string, i int) (*map[string]interface{}, string, error) {

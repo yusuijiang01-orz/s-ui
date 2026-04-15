@@ -1,4 +1,4 @@
-module github.com/yusuijiang01-orz/s-ui
+module github.com/alireza0/s-ui
 
 go 1.25.7
 
